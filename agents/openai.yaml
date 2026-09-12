@@ -1,0 +1,4 @@
+interface:
+  display_name: "/postmortem"
+  short_description: "Run an evidence-grounded session postmortem"
+  default_prompt: "Use $postmortem to audit the just-completed session and publish the next evidence-grounded postmortem."
